@@ -1,2 +1,2 @@
 # hodometer
-Hodometer with Arduino UNO + Keypad &amp; LCD1602 display + reed contact
+Hodometer with Arduino UNO + Keypad and LCD1602 display + reed contact
